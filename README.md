@@ -8,6 +8,8 @@
 
 
 https://docs.google.com/document/d/1TNB_FNX1GAQDz3eZ701NDPBMGUbn54_kbPIoXaTQta8/edit?tab=t.0
+
+
 source code:
 import java.util.HashMap;
 import java.util.Map;
@@ -151,3 +153,8 @@ public class MyProgram {
         }
     }
 }
+
+
+# Objective of the game
+
+Throughout this game you will come across various creatures including massive spiders, crocodiles and many more. Its text based and will have you fight the different monsters and solve puzzles along the way.
