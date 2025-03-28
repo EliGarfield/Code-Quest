@@ -1,4 +1,5 @@
 # Code-Quest
 
 
-<img width="1372" alt="Screenshot 2025-03-26 at 11 17 44 AM" src="https://github.com/user-attachments/assets/a4dce479-1f81-4d45-939d-b3ab1625ba89" />
+
+<img width="728" alt="Screenshot 2025-03-28 at 12 03 44 PM" src="https://github.com/user-attachments/assets/7e0a8d49-2f0e-4f4f-9170-1dc3be3106fd" />
