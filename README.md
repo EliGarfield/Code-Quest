@@ -25,3 +25,5 @@ https://codehs.com/sandbox/id/c0de-quest-42fCSV?collaborate=-OMSyoSBaZxdOt3wxeOB
 # Objective of the game
 
 Throughout this game you will come across various creatures including massive spiders, crocodiles and many more. Its text based and will have you fight the different monsters and solve puzzles along the way. 
+# Class Diagram
+[Class diagram](https://raw.githubusercontent.com/EliGarfield/Code-Quest/refs/heads/main/Class%20diagram.png).
